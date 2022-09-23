@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<document filename=''>
+
+<meta>
+<author lastname = '', firstname = '', middlename = ''></author>
+
+<availability format = 'Electronic'> </availability>
+
+<bibl/>
+
+<bytecount> Size of file in KB </bytecount>
+
+<domain>Tourism</domain>
+
+<creation date = '5 Feb, 2007', institutename = 'C-DAC(P)', creatorname: lastname = '', middlename = '', firstname = ''></creation>
+
+<distributor> C-DAC(P)</distributor>
+
+<edition> 1.0 </edition>
+
+<encodingdesc originalencoding = 'Unicode', newencoding = 'Unicode'> </encodingdesc>
+
+<sentencemarker/>
+
+<language Name = 'Eng', writingsystem  = 'LTR', script = 'Roman'/>
+
+<normalization normalized  = 'No', utilityname = ''/>
+
+<projectdesc> E-ILMT consortia </projectdesc>
+
+<pubaddress> </pubaddress>
+
+<pubdate>  </pubdate>
+
+<publicationstmt> non copyrighted </publicationstmt>
+
+<publisher> Name/URL </publisher>
+
+<pubplace>Web </pubplace>
+
+<translation availability = 'Yes', translations = 'Tr0002_hin.raw', translator (Translator Name(Fname, lname, mname),Institute name = 'C-DAC(p)',language = 'Hin', writing system = 'LTR',script = 'Devnagari' ></translation >
+
+<wordcount> 732</wordcount>
+
+<Note/>
+
+</meta>
+<body>

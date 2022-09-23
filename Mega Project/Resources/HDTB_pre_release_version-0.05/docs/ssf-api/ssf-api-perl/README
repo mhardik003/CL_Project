@@ -1,0 +1,22 @@
+SSF API
+-------
+
+1) This API has been written for SSF version 2.0.
+
+
+How To Run?
+	cd ssf-api-perl
+	perl sample_program.pl input-file-name
+e.g.
+	perl sample_program-1.pl testcase-1.in	
+
+This script read and print the SSF.
+
+2) For Documentation see doc/README_SSF, doc/README_FS
+
+3) For any problems with the API, please report to 
+
+	Sriram <sriram@research.iiit.ac.in>
+	Anil <anil@research.iiit.ac.in>
+	Rashid <rashid.ahmed@research.iiit.ac.in>
+

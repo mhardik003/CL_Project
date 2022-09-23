@@ -1,0 +1,18 @@
+<Sentence id="1">
+0	((	SSF	
+1	ਇਹ	unk	<fs af='ਇਹ,pn,any,sg,,d,,'>|<fs af='ਇਹ,pn,any,pl,,d,,'>
+2	ਬਾਗ	unk	<fs af='ਬਾਗ,n,m,sg,3,d,,'>|<fs af='ਬਾਗ,n,m,pl,3,d,,'>
+3	ਲਾਹੌਰ	unk	<fs af='ਲਾਹੌਰ,n,m,sg,3,d,,'>
+4	ਸਥਿਤ	unk	<fs af='ਸਥਿਤ,adj,,,,d,,'>
+5	ਸ਼ਾਲੀਮਾਰ	unk	<fs af='ਸ਼ਾਲੀਮਾਰ,unk,,,,,,'>
+6	ਬਾਗ	unk	<fs af='ਬਾਗ,n,m,sg,3,d,,'>|<fs af='ਬਾਗ,n,m,pl,3,d,,'>
+7	ਦੇ	unk	<fs af='ਦੇ,v,any,sg,2,,0,0'>|<fs af='ਦਾ,psp,m,sg,,o,,'>|<fs af='ਦਾ,psp,m,pl,,o,,'>
+8	ਨਮੂਨੇ	unk	<fs af='ਨਮੂਨਾ,n,m,sg,3,o,,'>|<fs af='ਨਮੂਨਾ,n,m,pl,3,o,,'>
+9	ਅਨੁਸਾਰ	unk	<fs af='ਅਨੁਸਾਰ,psp,,,,d,,'>
+10	ਬਣਾਇਆ	unk	<fs af='ਬਣਾ,v,m,sg,any,,ਇਆ,ਇਆ'>
+11	ਗਿਆ	unk	<fs af='ਜਾ,v,m,sg,any,,ਇਆ,ਇਆ'>
+12	ਹੈ	unk	<fs af='ਹੈ,v,any,sg,3,,,'>
+13	.	unk	<fs af='&sdot;,punc,,,,,,'>
+	))
+</Sentence>
+

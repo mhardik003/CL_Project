@@ -1,0 +1,48 @@
+<Sentence id="1">
+1	((	NP	<fs af='दुनिया,n,f,s,,1,ke,'>
+1.1	दुनिया	NN	<fs af='दुनिया,n,f,s,,1,ke,'>
+	))		
+2	((	NP	<fs af='देश,n,m,p,,1,ke,'>
+2.1	कई	QF	<fs af='कई,adj,any,any,,,0,'>
+2.2	देशों	NN	<fs af='देश,n,m,p,,1,ke,'>
+	))		
+3	((	NP	<fs af='वैज्ञानिक,n,m,s,,0,0,'>
+3.1	वैज्ञानिक	NN	<fs af='वैज्ञानिक,n,m,s,,0,0,'>
+	))		
+4	((	NP	<fs af='कृत्रिम,adj,any,any,,,any,'>
+4.1	कृत्रिम	JJ	<fs af='कृत्रिम,adj,any,any,,,any,'>
+	))		
+5	((	NP	<fs af='सूर्य,n,m,s,,1,ke,'>
+5.1	सूर्य	NN	<fs af='सूर्य,n,m,s,,1,ke,'>
+	))		
+6	((	NP	<fs af='कोशिश,n,f,s,,1,meM,'>
+6.1	निर्माण	NN	<fs af='निर्माण,n,m,s,,1,kI,'>
+6.2	कोशिश	NN	<fs af='कोशिश,n,f,s,,1,meM,'>
+	))		
+7	((	VGF	<fs af='लग,v,any,s,m,,0_hE,सुब्ज्'>
+7.1	लगे	VFM	<fs af='लग,v,any,s,m,,,सुब्ज्'>
+	))		
+8	((	CCP	<fs af='और,D,,,,,,'>
+8.1	और	CC	<fs af='और,D,,,,,,'>
+	))		
+9	((	NP	<fs af='यह,P,any,s,a,,1,'>
+9.1	इस	DEM	<fs af='यह,P,any,s,a,,1,'>
+	))		
+10	((	NP	<fs af='दिशा,n,f,s,,1,meM,'>
+10.1	दिशा	NN	<fs af='दिशा,n,f,s,,1,meM,'>
+	))		
+11	((	NP	<fs af='कई,adj,any,any,,,0,'>
+11.1	कई	QF	<fs af='कई,adj,any,any,,,0,'>
+	))		
+12	((	NP	<fs af='हासिल,n,m,s,,1,kI,'>
+12.1	महत्वपूर्ण	JJ	<fs af='महत्वपूर्ण,adj,any,any,,,any,'>
+12.2	सफलताएं	NN	
+12.3	भी	RP	<fs af='भी,D,,,,,,'>
+12.4	हासिल	NN	<fs af='हासिल,n,m,s,,1,kI,'>
+	))		
+13	((	VGF	<fs af='जा,v,any,any,any,,0_cuka_hE,0'>
+13.1	जा	VFM	<fs af='जा,v,any,any,any,,,0'>
+13.2	.	SYM	
+	))		
+</Sentence>
+

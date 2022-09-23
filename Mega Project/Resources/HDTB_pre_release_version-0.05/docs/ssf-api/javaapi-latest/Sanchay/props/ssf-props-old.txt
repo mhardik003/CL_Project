@@ -1,0 +1,44 @@
+#SSF properties
+
+encoding	UTF-8
+rootName	SSF
+chunkStart	((
+chunkEnd	))
+fieldSeparatorRegex	\s+
+fieldSeparatorPrint	\t
+sentenceStart	<Sentence
+sentenceEnd	</Sentence
+
+metaDataStart	<meta
+metaDataEnd	</meta
+
+textStart	<text
+textEnd	</text
+
+storyStart	<document
+storyEnd	</document
+
+paragraphStart	<p
+paragraphEnd	</p
+
+#Document	document
+#Attributes: docid, docnumber
+
+#Body	body
+#Body will replace story
+
+#Paragraph	p
+#Segment	segment
+#Attributes: segmentnumber
+
+#Sentence	sentence
+#Attributes: sentencenumber
+
+#Foreign	foreign
+
+wordTagSeparator	_
+unknownTag	UNK
+
+bracketFormStart	[[
+bracketFormEnd	]]
+

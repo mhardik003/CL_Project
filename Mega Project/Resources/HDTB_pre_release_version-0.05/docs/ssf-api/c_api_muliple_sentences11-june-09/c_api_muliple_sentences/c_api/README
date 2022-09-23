@@ -1,0 +1,12 @@
+11-june-09	c_api_3
+	
+	- This API have the 6 files (c_api_v2.h, core_functions.h, fs_functions.h, functions.h, ssf_functions.h, structures.h)
+	- The main API file if c_api_v2.h and the other are included in this file. 
+	- This API is extended for multiple SSF sentences in a file.
+	- This API also work for CML
+	- This API has the changes to print the alternative feature structure by pipe (|)
+	  in place of space.
+	- This API also has the changes to handle unicode strings in the feature structures.
+
+
+Rashid Ahmad

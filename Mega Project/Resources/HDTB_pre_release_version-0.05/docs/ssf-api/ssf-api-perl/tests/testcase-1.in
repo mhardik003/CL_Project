@@ -1,0 +1,17 @@
+<Sentence id="1">
+1	((	NP	
+1.1	mEMne	PRP	<fs af='mEM,pn,any,sg,1,o,ne,ne'>
+	))		
+2	((	VGNF	
+2.1	xOdZawe	VM	<fs af='xOdZa,v,m,pl,any,,wA,wA'>
+2.2	hue	VAUX	<fs af='ho,v,m,pl,any,,yA,yA'>
+	))		
+3	((	NP	
+3.1	Sera	NN	<fs af='Sera,n,m,sg,3,d,0,0'>|<fs af='Sera,n,m,pl,3,d,0,0'>|<fs af='Sera,n,m,sg,3,o,0,0'>
+3.2	ko	PSP	<fs af='ko,psp,,,,,,'>
+	))		
+4	((	VGF	
+4.1	xeKA	VM	<fs af='xeKa,v,m,sg,any,,yA,yA'>
+4.2	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>

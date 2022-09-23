@@ -1,0 +1,25 @@
+<Sentence id="1">
+1	((	NP	<fs af='ਬਾਗ,n,m,sg,3,d,,' head="ਬਾਗ_2">
+1.1	ਇਹ	DEM	<fs af='ਇਹ,pn,any,sg,,d,,'>
+1.2	ਬਾਗ	NN	<fs af='ਬਾਗ,n,m,sg,3,d,,' name="ਬਾਗ_2">
+	))		
+2	((	NP	<fs af='ਲਾਹੌਰ,n,m,sg,3,d,,' head="ਲਾਹੌਰ">
+2.1	ਲਾਹੌਰ	NNP	<fs af='ਲਾਹੌਰ,n,m,sg,3,d,,' name="ਲਾਹੌਰ">
+	))		
+3	((	NP	<fs af='ਬਾਗ,n,m,sg,3,d,,' head="ਬਾਗ">
+3.1	ਸਥਿਤ	JJ	<fs af='ਸਥਿਤ,adj,,,,d,,'>
+3.2	ਸ਼ਾਲੀਮਾਰ	JJ	<fs af='ਸ਼ਾਲੀਮਾਰ,unk,,,,,,' poslcat="NM">
+3.3	ਬਾਗ	NN	<fs af='ਬਾਗ,n,m,sg,3,d,,' name="ਬਾਗ">
+3.4	ਦੇ	PSP	<fs af='ਦਾ,psp,m,sg,,o,,'>
+	))		
+4	((	NP	<fs af='ਨਮੂਨਾ,n,m,sg,3,o,,' head="ਨਮੂਨੇ">
+4.1	ਨਮੂਨੇ	NN	<fs af='ਨਮੂਨਾ,n,m,sg,3,o,,' name="ਨਮੂਨੇ">
+4.2	ਅਨੁਸਾਰ	PSP	<fs af='ਅਨੁਸਾਰ,psp,,,,d,,'>
+	))		
+5	((	VGF	<fs af='ਬਣਾ,v,m,sg,any,,ਇਆ,ਇਆ' head="ਬਣਾਇਆ">
+5.1	ਬਣਾਇਆ	VM	<fs af='ਬਣਾ,v,m,sg,any,,ਇਆ,ਇਆ' name="ਬਣਾਇਆ">
+5.2	ਗਿਆ	VAUX	<fs af='ਜਾ,v,m,sg,any,,ਇਆ,ਇਆ'>
+5.3	ਹੈ	VAUX	<fs af='ਹੈ,v,any,sg,3,,,'>
+5.4	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat="NM">
+	))		
+</Sentence>

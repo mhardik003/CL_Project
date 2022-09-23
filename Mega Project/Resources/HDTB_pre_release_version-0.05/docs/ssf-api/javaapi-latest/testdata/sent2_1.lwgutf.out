@@ -1,0 +1,59 @@
+<Sentence id="1">
+1	((	NP	<fs af='सूर्य,n,m,s,,0,0,'>
+1.1	त्रिम	JJ	
+1.2	सूर्य	NN	<fs af='सूर्य,n,m,s,,0,0,'>
+	))		
+2	((	NP	<fs af='परियोजना,n,f,s,,1,ko,'>
+2.1	परियोजना	NNP	<fs af='परियोजना,n,f,s,,1,ko,'>
+	))		
+3	((	NP	<fs af='जामा,n,m,s,,0,0,'>
+3.1	अमली	NN	
+3.2	जामा	NN	<fs af='जामा,n,m,s,,0,0,'>
+	))		
+4	((	VGNN	<fs af='पहना,v,m,p,any,1,ke_lie,ना'>
+4.1	पहनाने	VM	<fs af='पहना,v,m,p,any,1,ke_lie,ना'>
+	))		
+5	((	NP	<fs af='चीन,n,m,s,,0,0,'>
+5.1	चीन	NNP	<fs af='चीन,n,m,s,,0,0,'>
+5.2	,	SYM	
+	))		
+6	((	NP	<fs af='भारत,n,m,s,,0,0,'>
+6.1	भारत	NNP	<fs af='भारत,n,m,s,,0,0,'>
+6.2	,	SYM	
+	))		
+7	((	NP	<fs af='जापान,n,m,s,,0,0,'>
+7.1	रूस	NNP	<fs af='रूस,v,any,s,any,0,0,0'>
+7.2	,	SYM	
+7.3	अमेरिका	NNP	<fs af='अमेरिका,n,m,s,,0,0,'>
+7.4	,	SYM	
+7.5	जापान	NN	<fs af='जापान,n,m,s,,0,0,'>
+	))		
+8	((	CCP	<fs af='और,D,,,,,,'>
+8.1	और	CC	<fs af='और,D,,,,,,'>
+	))		
+9	((	NP	<fs af='यूरोपीय,adj,any,any,,,any,'>
+9.1	यूरोपीय	JJ	<fs af='यूरोपीय,adj,any,any,,,any,'>
+	))		
+10	((	NP	<fs af='संघ,n,m,s,,1,ne,'>
+10.1	संघ	NNP	<fs af='संघ,n,m,s,,1,ne,'>
+	))		
+11	((	VGNF	<fs af='मिल,v,any,any,any,,,कर'>
+11.1	मिलकर	VM	<fs af='मिल,v,any,any,any,,,कर'>
+	))		
+12	((	NP	
+12.1	अंतरराष्ट्रीय	JJ	<fs af='अंतरराष्ट्रीय,adj,any,any,,,any,'>
+12.2	नाभिकीय	JJ	
+	))		
+13	((	NP	
+13.1	फ्यूजन	NN	
+13.2	रिएक्टर	NN	
+	))		
+14	((	NP	<fs af='परियोजना,n,f,s,,0,0,'>
+14.1	परियोजना	NNP	<fs af='परियोजना,n,f,s,,0,0,'>
+	))		
+15	((	NP	<fs af='शुरू,Avy,,,,1,kI,'>
+15.1	शुरू	NN	<fs af='शुरू,Avy,,,,1,kI,'>
+15.2	है	VAUX	<fs af='है,v,any,s,m,,,है'>
+15.3	.	SYM	
+	))		
+</Sentence>

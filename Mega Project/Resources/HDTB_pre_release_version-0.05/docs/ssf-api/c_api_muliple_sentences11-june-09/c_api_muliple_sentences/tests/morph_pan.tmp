@@ -1,0 +1,55 @@
+<Sentence id="1">
+0	((	SSF	
+1	ਇਹ	unk	<fs af='ਇਹ,pn,any,sg,,d,,'>|<fs af='ਇਹ,pn,any,pl,,d,,'>
+2	ਪ੍ਰਾਂਤ	unk	<fs af='ਪ੍ਰਾਂਤ,n,m,sg,3,d,,'>|<fs af='ਪ੍ਰਾਂਤ,n,m,pl,3,d,,'>
+3	ਹਰ	unk	<fs af='ਹਰ,adj,,,,d,,'>|<fs af='ਹਰ,n,m,sg,3,d,,'>
+4	ਉਮਰ	unk	<fs af='ਉਮਰ,n,f,sg,3,d,,'>
+5	ਦੇ	unk	<fs af='ਦੇ,v,any,sg,2,,0,0'>|<fs af='ਦਾ,psp,m,sg,,o,,'>|<fs af='ਦਾ,psp,m,pl,,o,,'>
+6	ਲੋਕਾਂ	unk	<fs af='ਲੋਕ,n,m,pl,3,o,,'>
+7	ਦੀਆਂ	unk	<fs af='ਦੀ,psp,f,pl,,o,,'>
+8	ਜ਼ਰੂਰਤਾਂ	unk	<fs af='ਜ਼ਰੂਰਤ,n,f,pl,3,o,,'>
+9	ਪੂਰੀਆਂ	unk	<fs af='ਪੂਰ,v,f,pl,any,,ਇਆ,ਇਆ'>|<fs af='ਪੂਰੀ,adj,f,pl,,o,,'>
+10	ਕਰਦਾ	unk	<fs af='ਕਰ,v,m,sg,any,,ਦਾ,ਦਾ'>
+11	ਹੈ	unk	<fs af='ਹੈ,v,any,sg,3,,,'>
+12	.	unk	<fs af='&sdot;,punc,,,,,,'>
+	))
+</Sentence>
+
+<Sentence id="2">
+0	((	SSF	
+1	ਇਸ	unk	<fs af='ਇਹ,pn,any,sg,,o,,'>
+2	ਸੈਂਟਰ	unk	<fs af='ਸੈਂਟਰ,n,m,sg,3,d,,'>|<fs af='ਸੈਂਟਰ,n,m,pl,3,d,,'>
+3	ਦਾ	unk	<fs af='ਦਾ,psp,m,sg,,d,,'>
+4	ਮਕਸਦ	unk	<fs af='ਮਕਸਦ,n,m,sg,3,d,,'>|<fs af='ਮਕਸਦ,n,m,pl,3,d,,'>
+5	ਬੁੱਧ	unk	<fs af='ਬੁੱਧ,n,any,sg,3,d,,'>
+6	ਦੀਆਂ	unk	<fs af='ਦੀ,psp,f,pl,,o,,'>
+7	ਸਿੱਖਿਆਵਾਂ	unk	<fs af='ਸਿੱਖਿਆ,n,f,pl,3,o,,'>
+8	ਨਾਲ	unk	<fs af='ਨਾਲ,adv,,,,d,,'>|<fs af='ਨਾਲ,psp,,,,d,,'>|<fs af='ਨਾਲ,n,f,sg,3,d,,'>
+9	ਮਨੁੱਖ	unk	<fs af='ਮਨੁੱਖ,n,m,sg,3,d,,'>|<fs af='ਮਨੁੱਖ,n,m,pl,3,d,,'>
+10	ਨੂੰ	unk	<fs af='ਨੂੰ,psp,,,,d,,'>
+11	ਜੋੜਨਾ	unk	<fs af='ਜੋੜ,v,m,sg,any,,ਣਾ,ਣਾ'>
+12	ਹੈ	unk	<fs af='ਹੈ,v,any,sg,3,,,'>
+13	.	unk	<fs af='&sdot;,punc,,,,,,'>
+	))
+</Sentence>
+
+<Sentence id="3">
+0	((	SSF	
+1	ਮਨਾਲੀ	unk	<fs af='ਮਨਾਲੀ,unk,,,,,,'>
+2	ਤੋਂ	unk	<fs af='ਤੋਂ,psp,,,,d,,'>
+3	ਲੇਹ	unk	<fs af='ਲੇਹ,n,f,sg,3,d,,'>
+4	ਤੱਕ	unk	<fs af='ਤੱਕ,n,f,sg,3,d,,'>|<fs af='ਤੱਕ,v,any,sg,2,,0,0'>
+5	475	unk	<fs af='475,num,,,,,,'>
+6	ਕਿਲੋਮੀਟਰ	unk	<fs af='ਕਿਲੋਮੀਟਰ,n,m,sg,3,d,,'>|<fs af='ਕਿਲੋਮੀਟਰ,n,m,pl,3,d,,'>
+7	ਦਾ	unk	<fs af='ਦਾ,psp,m,sg,,d,,'>
+8	ਸਫਰ	unk	<fs af='ਸਫਰ,n,m,sg,3,d,,'>|<fs af='ਸਫਰ,n,m,pl,3,d,,'>
+9	ਦੋ	unk	<fs af='ਦੋ,num,any,pl,,d,,'>
+10	ਦਿਨਾਂ	unk	<fs af='ਦਿਨ,n,m,pl,3,o,,'>
+11	ਵਿਚ	unk	<fs af='ਵਿਚ,adv,any,sg,,d,,'>|<fs af='ਵਿਚ,psp,any,sg,,d,,'>
+12	ਪੂਰਾ	unk	<fs af='ਪੂਰਾ,adj,m,sg,,d,,'>|<fs af='ਪੂਰਾ,n,m,sg,3,d,,'>
+13	ਹੁੰਦਾ	unk	<fs af='ਹੋ,v,m,sg,any,,ਦਾ,ਦਾ'>
+14	ਹੈ	unk	<fs af='ਹੈ,v,any,sg,3,,,'>
+15	.	unk	<fs af='&sdot;,punc,,,,,,'>
+	))
+</Sentence>
+

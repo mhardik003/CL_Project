@@ -1,0 +1,80 @@
+<Sentence id="1">
+0	((	SSF	
+1	((	NP	<fs af='प्रांत,n,m,sg,3,d,,' head='ਪ੍ਰਾਂਤ' name='1'>
+1.1	ये	DEM	<fs af='ये,pn,any,sg,,d,,'>
+1.2	प्रांत	NN	<fs af='प्रांत,n,m,sg,3,d,,' name='ਪ੍ਰਾਂਤ'>
+	))
+2	((	NP	<fs af='आयु,n,f,sg,3,d,0_का,' head='ਉਮਰ' drel='r6:3' name='2'>
+2.1	हर	JJ	<fs af='हर,adj,,,,d,,'>
+2.2	आयु	NN	<fs af='आयु,n,f,sg,3,d,,' name='ਉਮਰ'>
+	))
+3	((	NP	<fs af='जनता,n,m,pl,3,o,0_की,' head='ਲੋਕਾਂ' name='3'>
+3.1	जनता	NN	<fs af='जनता,n,m,pl,3,o,,' name='ਲੋਕਾਂ'>
+	))
+4	((	NP	<fs af='जरूरत,n,f,pl,3,o,,' head='ਜ਼ਰੂਰਤਾਂ' name='4'>
+4.1	जरूरत	NN	<fs af='जरूरत,n,f,pl,3,o,,' name='ਜ਼ਰੂਰਤਾਂ'>
+	))
+5	((	JJP	<fs af='@ਪੂਰੀ,adj,f,pl,,o,,' head='ਪੂਰੀਆਂ' name='5'>
+5.1	@ਪੂਰੀ	JJ	<fs af='@ਪੂਰੀ,adj,f,pl,,o,,' name='ਪੂਰੀਆਂ'>
+	))
+6	((	VGF	<fs af='करना,v,m,sg,3,,ता_है,ਦਾ' head='ਕਰਦਾ' name='6'>
+6.1	करना	VM	<fs af='करना,v,m,sg,any,,ता,ਦਾ' name='ਕਰਦਾ'>
+6.2	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat='NM'>
+	))
+	))
+</Sentence>
+
+<Sentence id="2">
+0	((	SSF	
+1	((	NP	<fs af='केन्द्र,n,m,sg,3,d,0_का,' head='ਸੈਂਟਰ'>
+1.1	ये	DEM	<fs af='ये,pn,any,sg,,o,,'>
+1.2	केन्द्र	NN	<fs af='केन्द्र,n,m,sg,3,d,,' name='ਸੈਂਟਰ'>
+	))
+2	((	NP	<fs af='मंसा,n,m,sg,3,d,,' head='ਮਕਸਦ'>
+2.1	मंसा	NN	<fs af='मंसा,n,m,sg,3,d,,' name='ਮਕਸਦ'>
+	))
+3	((	NP	<fs af='बुद्ध,n,any,sg,3,d,0_की,' head='ਬੁੱਧ'>
+3.1	बुद्ध	NNP	<fs af='बुद्ध,n,any,sg,3,d,,' name='ਬੁੱਧ'>
+	))
+4	((	NP	<fs af='शिक्षा,n,f,pl,3,o,0_संग,' head='ਸਿੱਖਿਆਵਾਂ'>
+4.1	शिक्षा	NN	<fs af='शिक्षा,n,f,pl,3,o,,' name='ਸਿੱਖਿਆਵਾਂ'>
+	))
+5	((	NP	<fs af='मानव,n,m,sg,3,d,0_को,' head='ਮਨੁੱਖ'>
+5.1	मानव	NN	<fs af='मानव,n,m,sg,3,d,,' name='ਮਨੁੱਖ'>
+	))
+6	((	VGF	<fs af='जोड़ना,v,m,sg,3,,ना_है,ਣਾ' head='ਜੋੜਨਾ'>
+6.1	जोड़ना	VM	<fs af='जोड़ना,v,m,sg,any,,ना,ਣਾ' name='ਜੋੜਨਾ'>
+6.2	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat='NM'>
+	))
+	))
+</Sentence>
+
+<Sentence id="3">
+0	((	SSF	
+1	((	NP	<fs af='@ਮਨਾਲੀ,unk,,,,,0_से,' head='ਮਨਾਲੀ' poslcat='NM'>
+1.1	@ਮਨਾਲੀ	NNP	<fs af='@ਮਨਾਲੀ,unk,,,,,,' poslcat='NM' name='ਮਨਾਲੀ'>
+	))
+2	((	NP	<fs af='लेह,n,f,sg,3,d,0_तक,' head='ਲੇਹ'>
+2.1	लेह	NNP	<fs af='लेह,n,f,sg,3,d,,' name='ਲੇਹ'>
+	))
+3	((	NP	<fs af='किलोमीटर,n,m,sg,3,d,0_का,' head='ਕਿਲੋਮੀਟਰ'>
+3.1	@475	QC	<fs af='@475,num,,,,,,'>
+3.2	किलोमीटर	NN	<fs af='किलोमीटर,n,m,sg,3,d,,' name='ਕਿਲੋਮੀਟਰ'>
+	))
+4	((	NP	<fs af='सफ़र,n,m,sg,3,d,,' head='ਸਫਰ'>
+4.1	सफ़र	NN	<fs af='सफ़र,n,m,sg,3,d,,' name='ਸਫਰ'>
+	))
+5	((	NP	<fs af='दिन,n,m,pl,3,o,0_में,' head='ਦਿਨਾਂ'>
+5.1	दो	QC	<fs af='दो,num,any,pl,,d,,'>
+5.2	दिन	NN	<fs af='दिन,n,m,pl,3,o,,' name='ਦਿਨਾਂ'>
+	))
+6	((	JJP	<fs af='पूरा,adj,m,sg,,d,,' head='ਪੂਰਾ'>
+6.1	पूरा	JJ	<fs af='पूरा,adj,m,sg,,d,,' name='ਪੂਰਾ'>
+	))
+7	((	VGF	<fs af='होना,v,m,sg,3,,ता_है,ਦਾ' head='ਹੁੰਦਾ'>
+7.1	होना	VM	<fs af='होना,v,m,sg,any,,ता,ਦਾ' name='ਹੁੰਦਾ'>
+7.2	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat='NM'>
+	))
+	))
+</Sentence>
+

@@ -1,0 +1,55 @@
+<Sentence id="1">
+0	((	SSF	
+1	ਇਹ	DEM	<fs af='ਇਹ,pn,any,sg,,d,,'>|<fs af='ਇਹ,pn,any,pl,,d,,'>
+2	ਪ੍ਰਾਂਤ	NN	<fs af='ਪ੍ਰਾਂਤ,n,m,sg,3,d,,'>|<fs af='ਪ੍ਰਾਂਤ,n,m,pl,3,d,,'>
+3	ਹਰ	JJ	<fs af='ਹਰ,adj,,,,d,,'>|<fs af='ਹਰ,n,m,sg,3,d,,'>
+4	ਉਮਰ	NN	<fs af='ਉਮਰ,n,f,sg,3,d,,'>
+5	ਦੇ	PSP	<fs af='ਦੇ,v,any,sg,2,,0,0'>|<fs af='ਦਾ,psp,m,sg,,o,,'>|<fs af='ਦਾ,psp,m,pl,,o,,'>
+6	ਲੋਕਾਂ	NN	<fs af='ਲੋਕ,n,m,pl,3,o,,'>
+7	ਦੀਆਂ	PSP	<fs af='ਦੀ,psp,f,pl,,o,,'>
+8	ਜ਼ਰੂਰਤਾਂ	NN	<fs af='ਜ਼ਰੂਰਤ,n,f,pl,3,o,,'>
+9	ਪੂਰੀਆਂ	JJ	<fs af='ਪੂਰ,v,f,pl,any,,ਇਆ,ਇਆ'>|<fs af='ਪੂਰੀ,adj,f,pl,,o,,'>
+10	ਕਰਦਾ	VM	<fs af='ਕਰ,v,m,sg,any,,ਦਾ,ਦਾ'>
+11	ਹੈ	VAUX	<fs af='ਹੈ,v,any,sg,3,,,'>
+12	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+13	))		
+</Sentence>
+
+<Sentence id="2">
+0	((	SSF	
+1	ਇਸ	DEM	<fs af='ਇਹ,pn,any,sg,,o,,'>
+2	ਸੈਂਟਰ	NN	<fs af='ਸੈਂਟਰ,n,m,sg,3,d,,'>|<fs af='ਸੈਂਟਰ,n,m,pl,3,d,,'>
+3	ਦਾ	PSP	<fs af='ਦਾ,psp,m,sg,,d,,'>
+4	ਮਕਸਦ	NN	<fs af='ਮਕਸਦ,n,m,sg,3,d,,'>|<fs af='ਮਕਸਦ,n,m,pl,3,d,,'>
+5	ਬੁੱਧ	NNP	<fs af='ਬੁੱਧ,n,any,sg,3,d,,'>
+6	ਦੀਆਂ	PSP	<fs af='ਦੀ,psp,f,pl,,o,,'>
+7	ਸਿੱਖਿਆਵਾਂ	NN	<fs af='ਸਿੱਖਿਆ,n,f,pl,3,o,,'>
+8	ਨਾਲ	PSP	<fs af='ਨਾਲ,adv,,,,d,,'>|<fs af='ਨਾਲ,psp,,,,d,,'>|<fs af='ਨਾਲ,n,f,sg,3,d,,'>
+9	ਮਨੁੱਖ	NN	<fs af='ਮਨੁੱਖ,n,m,sg,3,d,,'>|<fs af='ਮਨੁੱਖ,n,m,pl,3,d,,'>
+10	ਨੂੰ	PSP	<fs af='ਨੂੰ,psp,,,,d,,'>
+11	ਜੋੜਨਾ	VM	<fs af='ਜੋੜ,v,m,sg,any,,ਣਾ,ਣਾ'>
+12	ਹੈ	VAUX	<fs af='ਹੈ,v,any,sg,3,,,'>
+13	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+14	))		
+</Sentence>
+
+<Sentence id="3">
+0	((	SSF	
+1	ਮਨਾਲੀ	NNP	<fs af='ਮਨਾਲੀ,unk,,,,,,'>
+2	ਤੋਂ	PSP	<fs af='ਤੋਂ,psp,,,,d,,'>
+3	ਲੇਹ	NNP	<fs af='ਲੇਹ,n,f,sg,3,d,,'>
+4	ਤੱਕ	PSP	<fs af='ਤੱਕ,n,f,sg,3,d,,'>|<fs af='ਤੱਕ,v,any,sg,2,,0,0'>
+5	475	QC	<fs af='475,num,,,,,,'>
+6	ਕਿਲੋਮੀਟਰ	NN	<fs af='ਕਿਲੋਮੀਟਰ,n,m,sg,3,d,,'>|<fs af='ਕਿਲੋਮੀਟਰ,n,m,pl,3,d,,'>
+7	ਦਾ	PSP	<fs af='ਦਾ,psp,m,sg,,d,,'>
+8	ਸਫਰ	NN	<fs af='ਸਫਰ,n,m,sg,3,d,,'>|<fs af='ਸਫਰ,n,m,pl,3,d,,'>
+9	ਦੋ	QC	<fs af='ਦੋ,num,any,pl,,d,,'>
+10	ਦਿਨਾਂ	NN	<fs af='ਦਿਨ,n,m,pl,3,o,,'>
+11	ਵਿਚ	PSP	<fs af='ਵਿਚ,adv,any,sg,,d,,'>|<fs af='ਵਿਚ,psp,any,sg,,d,,'>
+12	ਪੂਰਾ	JJ	<fs af='ਪੂਰਾ,adj,m,sg,,d,,'>|<fs af='ਪੂਰਾ,n,m,sg,3,d,,'>
+13	ਹੁੰਦਾ	VM	<fs af='ਹੋ,v,m,sg,any,,ਦਾ,ਦਾ'>
+14	ਹੈ	VAUX	<fs af='ਹੈ,v,any,sg,3,,,'>
+15	.	SYM	<fs af='&sdot;,punc,,,,,,'>
+16	))		
+</Sentence>
+

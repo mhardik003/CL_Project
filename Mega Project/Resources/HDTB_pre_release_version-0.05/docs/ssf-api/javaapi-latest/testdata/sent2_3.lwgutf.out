@@ -1,0 +1,36 @@
+<Sentence id="1">
+1	((	NP	<fs af='उम्मीद,n,f,s,,0,0,'>
+1.1	इससे	PRP	<fs af='यह,P,any,s,a,,1,'>
+1.2	उम्मीद	NN	<fs af='उम्मीद,n,f,s,,0,0,'>
+	))		
+2	((	VGF	<fs af='जता,v,f,s,any,,0_jA_raha_hE,या'>
+2.1	जताई	VM	<fs af='जता,v,f,s,any,,,या'>
+	))		
+3	((	CCP	<fs af='कि,Avy,,,,,,'>
+3.1	कि	CC	<fs af='कि,Avy,,,,,,'>
+	))		
+4	((	NP	<fs af='कृत्रिम,adj,any,any,,,any,'>
+4.1	कृत्रिम	JJ	<fs af='कृत्रिम,adj,any,any,,,any,'>
+	))		
+5	((	NP	<fs af='सूर्य,n,m,s,,1,ke,'>
+5.1	सूर्य	NN	<fs af='सूर्य,n,m,s,,1,ke,'>
+	))		
+6	((	VGF	<fs af='चमक,v,m,p,any,1,meM,ना'>
+6.1	चमकने	VM	<fs af='चमक,v,m,p,any,1,meM,ना'>
+	))		
+7	((	NP	<fs af='अब,D,,,,,,'>
+7.1	अब	PRP	<fs af='अब,D,,,,,,'>
+	))		
+8	((	NP	<fs af='समय,n,m,s,,0,0,'>
+8.1	ज्यादा	QF	<fs af='ज्यादा,adj,m,s,,,0,'>
+8.2	समय	NN	<fs af='समय,n,m,s,,0,0,'>
+	))		
+9	((	VGF	<fs af='नहीं,D,,,,,,'>
+9.1	नहीं	NEG	<fs af='नहीं,D,,,,,,'>
+	))		
+10	((	VGF	<fs af='लग,v,m,p,any,,0_vAlA_hE,ना'>
+10.1	लगने	VM	<fs af='लग,v,m,p,any,,,ना'>
+10.2	.	SYM	
+	))		
+</Sentence>
+

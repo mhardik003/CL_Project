@@ -1,0 +1,44 @@
+<Sentence id="1">
+1	((	NP	<fs af='दिन,n,m,s,,0,0,'>
+1.1	वह	PRP	<fs af='वह,P,any,s,a,,0,'>
+1.2	दिन	NN	<fs af='दिन,n,m,s,,0,0,'>
+	))		
+2	((	NP	<fs af='नहीं,D,,,,,,'>
+2.1	दूर	NST	<fs af='दूर,D,,,,,,'>
+2.2	नहीं	NEG	<fs af='नहीं,D,,,,,,'>
+	))		
+3	((	NP	<fs af='जब,D,,,,,,'>
+3.1	जब	PRP	<fs af='जब,D,,,,,,'>
+	))		
+4	((	NP	<fs af='धरती,n,f,s,,1,para,'>
+4.1	धरती	NN	<fs af='धरती,n,f,s,,1,para,'>
+	))		
+5	((	NP	<fs af='नहीं,D,,,,,,'>
+5.1	एक	QC	<fs af='एक,adj,any,any,,,any,'>
+5.2	नहीं	NEG	<fs af='नहीं,D,,,,,,'>
+5.3	,	SYM	
+	))		
+6	((	NP	<fs af='कई,adj,any,any,,,0,'>
+6.1	कई	QF	<fs af='कई,adj,any,any,,,0,'>
+	))		
+7	((	NP	<fs af='सूर्य,n,m,s,,0,0,'>
+7.1	कृत्रिम	JJ	<fs af='कृत्रिम,adj,any,any,,,any,'>
+7.2	सूर्य	NN	<fs af='सूर्य,n,m,s,,0,0,'>
+	))		
+8	((	NP	<fs af='अपनी,P,any,any,any,,1,'>
+8.1	अपनी	PRP	<fs af='अपनी,P,any,any,any,,1,'>
+	))		
+9	((	VGF	<fs af='चमक,n,f,s,,0,0,'>
+9.1	चमक	VM	<fs af='चमक,n,f,s,,0,,'>
+	))		
+10	((	CCP	<fs af='और,D,,,,,,'>
+10.1	और	CC	<fs af='और,D,,,,,,'>
+	))		
+11	((	NP	<fs af='ऊर्जा,n,f,s,,0,0,'>
+11.1	ऊर्जा	NN	<fs af='ऊर्जा,n,f,s,,0,0,'>
+	))		
+12	((	VGF	<fs af='बिखर,v,m,p,u,,0,ङुटुरे'>
+12.1	बिखरेंगे	VM	<fs af='बिखर,v,m,p,u,,,ङुटुरे'>
+12.2	.	SYM	
+	))		
+</Sentence>

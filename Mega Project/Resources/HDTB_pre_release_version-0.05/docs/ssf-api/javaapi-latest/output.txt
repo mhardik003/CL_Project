@@ -1,0 +1,25 @@
+<Sentence id="1">
+0	((	SSF	
+1	((	test1	<fs af='bahuwa,n,m,s,,0,,'>|<fs af='bahuwa,n,m,s,,0,,'>
+1.1	वैज्ञानिक	TAG	<fs af='वैज्ञानिक,n,test,s,,0,0,'>
+	))
+2	((	test1	<fs af='bahuwa,n,m,s,,0,,'>|<fs af='bahuwa,n,m,s,,0,,'>
+2.1	यह	TAG	<fs af='यह,P,test,s,a,,0,'>
+2.2	काम	TAG	<fs af='काम,n,test,s,,0,0,'>
+	))
+3	((	test1	<fs af='bahuwa,n,m,s,,0,,'>|<fs af='bahuwa,n,m,s,,0,,'>
+3.1	नाभिकीय	TAG	
+	))
+4	((	test1	<fs af='bahuwa,n,m,s,,0,,'>|<fs af='bahuwa,n,m,s,,0,,'>
+4.1	फ्यूजन	TAG	
+	))
+5	((	test1	<fs af='bahuwa,n,m,s,,0,,'>|<fs af='bahuwa,n,m,s,,0,,'>
+5.1	सिद्धांत	TAG	<fs af='सिद्धान्त,n,test,s,,1,para,'>
+	))
+6	((	test1	<fs af='bahuwa,n,m,s,,0,,'>|<fs af='bahuwa,n,m,s,,0,,'>
+6.1	कर	TAG	<fs af='कर,n,test,s,,0,,'>
+6.2	.	TAG	
+	))
+	))
+</Sentence>
+

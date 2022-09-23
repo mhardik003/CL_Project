@@ -1,0 +1,24 @@
+<Sentence id="1">
+0	((	SSF	
+1	((	NP	<fs af='बगीचा,n,m,sg,3,d,,' head='ਬਾਗ_2'>
+1.1	ये	DEM	<fs af='ये,pn,any,sg,,d,,'>
+1.2	बगीचा	NN	<fs af='बगीचा,n,m,sg,3,d,,' name='ਬਾਗ_2'>
+	))
+2	((	NP	<fs af='लाहौर,n,m,sg,3,d,,' head='ਲਾਹੌਰ'>
+2.1	लाहौर	NNP	<fs af='लाहौर,n,m,sg,3,d,,' name='ਲਾਹੌਰ'>
+	))
+3	((	NP	<fs af='बगीचा,n,m,sg,3,d,0_का,' head='ਬਾਗ'>
+3.1	स्थित	JJ	<fs af='स्थित,adj,,,,d,,'>
+3.2	@ਸ਼ਾਲੀਮਾਰ	JJ	<fs af='@ਸ਼ਾਲੀਮਾਰ,unk,,,,,,' poslcat='NM'>
+3.3	बगीचा	NN	<fs af='बगीचा,n,m,sg,3,d,,' name='ਬਾਗ'>
+	))
+4	((	NP	<fs af='नमूना,n,m,sg,3,o,0_अनुसार,' head='ਨਮੂਨੇ'>
+4.1	नमूना	NN	<fs af='नमूना,n,m,sg,3,o,,' name='ਨਮੂਨੇ'>
+	))
+5	((	VGF	<fs af='बनाना,v,m,sg,3,,या_जा+या1_है,ਇਆ' head='ਬਣਾਇਆ'>
+5.1	बनाना	VM	<fs af='बनाना,v,m,sg,any,,या,ਇਆ' name='ਬਣਾਇਆ'>
+5.2	.	SYM	<fs af='&sdot;,punc,,,,,,' poslcat='NM'>
+	))
+	))
+</Sentence>
+
